@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Test two NeedIt App Client Scripts: NeedIt Set Requested for, NeedIt Populate Email Field</description>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <name>NeedIt Set Requested for and Email</name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-08 14:52:23</sys_created_on>
+        <sys_id>68d2259d1b1d1010497e40c6cc4bcbc0</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>NeedIt Set Requested for and Email</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_test_68d2259d1b1d1010497e40c6cc4bcbc0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-11 20:30:43</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="DELETE" query="document_key=68d2259d1b1d1010497e40c6cc4bcbc0"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>0a685797db06b7c807072f17d49619d4</instance_id>
+        <instance_name>dev88388</instance_name>
+        <name>sys_atf_test_68d2259d1b1d1010497e40c6cc4bcbc0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test"><sys_atf_test action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Test two NeedIt App Client Scripts: NeedIt Set Requested for, NeedIt Populate Email Field</description><enable_parameterized_testing>false</enable_parameterized_testing><name>NeedIt Set Requested for and Email</name><parameters/><remember/><sys_class_name>sys_atf_test</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-08 14:52:23</sys_created_on><sys_id>68d2259d1b1d1010497e40c6cc4bcbc0</sys_id><sys_mod_count>2</sys_mod_count><sys_name>NeedIt Set Requested for and Email</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_test_68d2259d1b1d1010497e40c6cc4bcbc0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-11 20:30:43</sys_updated_on></sys_atf_test><sys_variable_value action="delete_multiple" query="document_key=68d2259d1b1d1010497e40c6cc4bcbc0"/></record_update>]]></payload>
+        <payload_hash>-473833453</payload_hash>
+        <record_name>NeedIt Set Requested for and Email</record_name>
+        <reverted_from/>
+        <source>f1131ac51b151010497e40c6cc4bcb22</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-11 20:30:43</sys_created_on>
+        <sys_id>b30d869a1b551010497e40c6cc4bcbff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172a513e2990000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-11 20:30:43</sys_updated_on>
+        <type>Test</type>
+        <update_guid>fb0d869ac3551010ed81464d69d8aefe</update_guid>
+        <update_guid_history>fb0d869ac3551010ed81464d69d8aefe:-473833453,5643b55ab715101093ee07aef9c9e03e:2117295868,a2d2ad5d471d101092ba247ba1df529f:-473833453</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-11 20:35:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_test">sys_atf_test</sys_db_object>
+        <sys_id>d32b6b710d014410a811f5e17d261900</sys_id>
+        <sys_metadata>68d2259d1b1d1010497e40c6cc4bcbc0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Set Requested for and Email</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_test_68d2259d1b1d1010497e40c6cc4bcbc0</sys_update_name>
+        <sys_update_version display_value="sys_atf_test_68d2259d1b1d1010497e40c6cc4bcbc0">b30d869a1b551010497e40c6cc4bcbff</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-11 20:35:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
